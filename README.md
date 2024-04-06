@@ -1,6 +1,16 @@
 # ibm-pc-game-turbopascal
 Suite de jeux écrit en Pascal (Turbo Pascal ou Free Pascal) étant des clones de jeux existant sur le IBM PC
 
+![image](https://github.com/gladir/7iles/assets/11842176/90ee9db6-2379-4b3c-a734-8c8403c6f844)
+
+![image](https://user-images.githubusercontent.com/11842176/181311079-9a050acd-a403-4812-ad54-30a7b416db63.png)
+
+![image](https://github.com/gladir/7iles/assets/11842176/c40f9183-092d-457b-978e-da7c2c10aab7)
+
+![image](https://github.com/gladir/7iles/assets/11842176/bcc187ef-3a7b-4747-bb7c-a3d426ee66fb)
+
+
+
 # Liste des fichiers
 
 Voici la liste des différents fichiers de jeux proposés dans ibm-pc-game-turbopascal :
